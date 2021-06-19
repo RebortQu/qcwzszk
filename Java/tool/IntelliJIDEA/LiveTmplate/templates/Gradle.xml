@@ -1,0 +1,7 @@
+<templateSet group="Gradle">
+  <template name="mvnali" value="maven{url 'http://maven.aliyun.com/nexus/content/groups/public'}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="true" />
+    </context>
+  </template>
+</templateSet>
