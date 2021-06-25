@@ -24,3 +24,11 @@
 我的笔记可能一部分刚开始很垃圾后来很很精悍，也可能一些部分一直垃圾、更新一些就不再更新，全凭自己需要和心情。
 
 本仓库不只是计算机笔记，可能是本人所学诸多领域的一部分。
+
+# 部分文件在线浏览时的打开方式
+
+# Github图片不显示
+
+[链接位置](/git/gitHubProblem/winPicNone/windows下gitHub图片不显示.md)
+
+仓库位置：`qcwzszk\git\gitHubProblem\winPicNone\windows下gitHub图片不显示.md`
