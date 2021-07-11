@@ -27,8 +27,21 @@
 
 # 部分文件在线浏览时的打开方式
 
-# Github图片不显示
+## Github图片不显示
 
 [链接位置](/git/gitHubProblem/winPicNone/windows下gitHub图片不显示.md)
 
 仓库位置：`qcwzszk\git\gitHubProblem\winPicNone\windows下gitHub图片不显示.md`
+
+## 思维导图
+
+思维导图是做笔记的好工具，未来的每一份思维导图会做出以下三种文件上传到仓库，同样的位置，扩展名之前同样的名字。
+
++ 思维导图文件（.xmind）：思维导图源文件
+
+  软件官网下载地址：
+
+  中文版：[https://www.xmind.cn/]
+
++ MarkDown（.md）：并非MarkDown支持的mermaid所作，而是xmind导图MarkDown功能，导出的纯文本形式。这样可以用diff比对出不同提交的内容差异
++ 图片（.png）：方便在浏览器观看。
